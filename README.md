@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Param Chordiya</h1>
 <h3 align="center">Machine Learning Engineer | Data Science Enthusiast | Deep Learning Enthusiast</h3>
