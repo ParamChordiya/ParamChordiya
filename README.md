@@ -11,8 +11,12 @@
 
 <p align="center">
   <em>
-    This is ME, Param Chordiya, a <b>Master's Student</b> at University of California San Diego<br>
+    Hi I'm Param Chordiya, a <b>Master's Student</b> at University of California San Diego<br>
     A budding <b>Machine Learning Engineer</b> 
+</p>
+
+<p>
+  🔭 I’m currently working as a Machine Learning Engineer at 7Next a Research & Development vertical fo 7-eleven.
 </p>
 
 <!--
