@@ -15,7 +15,7 @@
     A budding <b>Machine Learning Engineer</b> 
 </p>
 
-<p align="center>
+<p align="center">
   <em>
   🔭 I’m currently working as a Machine Learning Engineer at 7Next a Research & Development vertical fo 7-eleven<br>
 </p>
