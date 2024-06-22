@@ -20,6 +20,7 @@
 </p>
 ---
 <h3 align="center">Tech I Know 🧑‍💻</h3>
+---
 
 <!--
 **ParamChordiya/ParamChordiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
