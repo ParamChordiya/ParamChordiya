@@ -29,7 +29,6 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,sqlite,tensorflow,ubuntu,visualstudio,vscode,git,anaconda,bootstrap,aws,css,fastapi,flask,github,gitlab,html,latex,matlab,mongodb,mysql,octave,opencv,postgres,tailwind,powershell,vue,postman,&perline=14" />
   </a>
 </p>
-
 ---
 
 <!--
