@@ -18,8 +18,11 @@
   🔭 I’m currently working as a <b style="color:red;">Machine Learning Engineer</b> at 7Next a Research & Development vertical of 7-eleven<br>
     👯 I’m looking to collaborate on all things AI!<br>
 </p>
+    
 ---
+
 <h3 align="center">Tech I Know 🧑‍💻</h3>
+
 ---
 
 <!--
