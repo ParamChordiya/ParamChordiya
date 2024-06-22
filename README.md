@@ -29,7 +29,18 @@
     <img src="https://skillicons.dev/icons?i=py,pytorch,sqlite,tensorflow,ubuntu,visualstudio,vscode,git,anaconda,bootstrap,aws,css,fastapi,flask,github,gitlab,html,latex,matlab,mongodb,mysql,octave,opencv,postgres,tailwind,powershell,vue,postman,&perline=14" />
   </a>
 </p>
+
 ---
+
+<h3 align="center">Connect With Me 🤝</h3>
+
+<!--connect-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sqlite,tensorflow,ubuntu,visualstudio,vscode,git,anaconda,bootstrap,aws,css,fastapi,flask,github,gitlab,html,latex,matlab,mongodb,mysql,octave,opencv,postgres,tailwind,powershell,vue,postman,&perline=14" />
+  </a>
+</p>
+
 
 <!--
 **ParamChordiya/ParamChordiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
