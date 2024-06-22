@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Param Chordiya</h1>
 <h3 align="center">Machine Learning Engineer | Data Science Enthusiast | Deep Learning Enthusiast</h3>
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/paramchordiya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paramchordiya" height="30" width="40" /></a>
-</p>
+</p>-->
 </p>
 
 
