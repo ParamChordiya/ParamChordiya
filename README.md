@@ -4,7 +4,7 @@
 
 # Param Chordiya
 
-**ML Engineer @ 7-Eleven R&D &nbsp;&middot;&nbsp; MS Computer Engineering @ UC San Diego &nbsp;&middot;&nbsp; San Diego, CA**
+**ML Engineer @ 7-Eleven &nbsp;&middot;&nbsp; MS Computer Engineering @ UC San Diego &nbsp;&middot;&nbsp; San Diego, CA**
 
 Building intelligent systems — from deep learning research to production pipelines and developer tools.
 
